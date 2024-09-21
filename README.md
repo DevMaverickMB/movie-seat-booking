@@ -16,7 +16,7 @@ A responsive and interactive **Movie Seat Booking** system that allows users to 
 
 ## Demo
 
-You can view a live demo of this project [here](#) (replace with actual link if deployed).  
+You can view a live demo of this project [here](#https://devmaverickmb.github.io/movie-seat-booking/).  
 Otherwise, download the project and open the `index.html` file in your browser to run it locally.
 
 ---
