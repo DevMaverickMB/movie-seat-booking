@@ -1,4 +1,5 @@
-# Movie Seat Booking System
+# Movie Seat Booking System 
+[🌐 LIVE](https://devmaverickmb.github.io/movie-seat-booking/)
 
 A responsive and interactive **Movie Seat Booking** system that allows users to select a movie, choose their seats, and view the total price dynamically. This project is built using HTML, CSS, and Vanilla JavaScript, with persistent data storage via `localStorage` to enhance user experience by retaining seat and movie selections across page reloads.
 
