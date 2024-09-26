@@ -113,3 +113,16 @@ p.text {
 p.text span {
   color: #6feaf6;
 }
+
+@media (max-width: 600px) {
+  /* .currency input{
+      width: 200px;
+  } */
+  * {
+    box-sizing: border-box;
+  }
+  .movie-container select {
+    padding: 5px 0 5px 15px;
+    margin-left: 1px;
+  }
+}
